@@ -21,7 +21,7 @@ html { background: url("images/favicon.ico") no-repeat center center fixed;
      background-size: cover; }
 body { position: relative;
       color: #212121; 
-      font-family: Raleway-Regular, Georgia, serif;
+      font-family: 'Roboto Condensed', serif;
 	  font-size: .9em;
 	  margin-bottom: 4em;
 	  margin-top: 0.2em; }	  
@@ -32,7 +32,7 @@ header  { width: 400px;
 		margin-right: auto;
 	    color: #FDD900;
 		font-size: 200%;
-	    font-family: Raleway-SemiBold, Georgia, serif; }
+	    font-family: Galada, serif; }
 nav  { font-family: Raleway-SemiBold;
 	  font-size: .8em;
 	  margin: 0;
