@@ -14,7 +14,7 @@
 
 
 /* Main styles */
-html { background: url("images/favicon.ico") no-repeat center center fixed; 
+html { background: url("images/bg.jpg") no-repeat center center fixed; 
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
@@ -25,7 +25,7 @@ body { position: relative;
 	  font-size: .9em;
 	  margin-bottom: 4em;
 	  margin-top: 0.2em; }	  
-header  { width: 400px;
+header  { width: 600px;
 		margin-top: .7em;
 		margin-bottom: .7em;
 		margin-left: auto;
