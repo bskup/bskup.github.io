@@ -8,17 +8,14 @@
 html { background: #FAFAFA }	 
 body { color: #212121; 
       font-family: 'Roboto Condensed', sans-serif;
-	  font-size: 1.1em;
-	  margin-bottom: 4em;
-	  margin-top: 0.2em; }	  
+	  font-size: 1.1em; }	  
 header  { color: #673AB7;
 		font-size: 200%;
 	    font-family: Galada, serif; }
 
 /* Define IDs - Only use once per page */
 #wrapper { width: 80%;
-		   min-width: 700px;
-		   max-width: 1024px; }
+		   min-width: 700px; }
 
 /* Define classes - Can be applied multiple times */	
 .circle { width: 300px;
