@@ -26,7 +26,9 @@ header  { color: #673AB7;
 		padding-top: 0px; 
 		padding-bottom: 0px; }
 .subheader  { color: #212121;
-	    font-family: Galada, serif;
+	    font-family: 'Roboto Condensed', sans-serif;
+		position: relative;
+		top: -20px;
 		padding-top: 0px; 
 		padding-bottom: 0px; }
 .circle { width: 300px;
