@@ -14,7 +14,7 @@
 
 
 /* Main styles */
-html { background: url("images/bg.jpg") no-repeat top left fixed; 
+html { background: url("images/bg.jpg") no-repeat top left;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
