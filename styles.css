@@ -14,11 +14,10 @@
 
 
 /* Main styles */
-html { background: url("images/bg.jpg") no-repeat top left;
-     -webkit-background-size: cover;
-     -moz-background-size: cover;
-     -o-background-size: cover;
-     background-size: 100% auto; }
+html { background: url("images/bg.jpg");
+     background-size: 100% auto;
+	 background-position: top left;
+	 background-repeat: no-repeat;	 }
 body { position: relative;
       color: #212121; 
       font-family: 'Roboto Condensed', serif;
