@@ -15,7 +15,7 @@
 
 /* Main styles */
 html { background: url("images/bg.jpg");
-     background-size: 100% auto;
+     background-size: cover;
 	 background-position: top left;
 	 background-repeat: no-repeat;	 }
 body { position: relative;
