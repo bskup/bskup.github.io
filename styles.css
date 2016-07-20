@@ -18,7 +18,7 @@ html { background: url("images/bg.jpg") no-repeat top left;
      -webkit-background-size: cover;
      -moz-background-size: cover;
      -o-background-size: cover;
-     background-size: cover; }
+     background-size: 100% auto; }
 body { position: relative;
       color: #212121; 
       font-family: 'Roboto Condensed', serif;
