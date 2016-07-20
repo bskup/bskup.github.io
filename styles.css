@@ -11,7 +11,9 @@ body { color: #212121;
 	  font-size: 1.1em; }	  
 header  { color: #673AB7;
 		font-size: 200%;
-	    font-family: Galada, serif; }
+	    font-family: Galada, serif;
+		padding-top: 0px; 
+		padding-bottom: 0px; }
 
 /* Define IDs - Only use once per page */
 #wrapper { width: 80%;
@@ -22,6 +24,9 @@ header  { color: #673AB7;
 		height: 300px;
 		background: #673AB7;
 		border-radius: 150px; }
+.rect1 { width: 500px;
+		height: 50px;
+		background: #673AB7; }
 .centered { text-align: center;
 			width: 50%;
 			margin-left: auto;
