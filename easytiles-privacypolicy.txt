@@ -1,0 +1,16 @@
+<html>
+<title>Easy Tiles Privacy Policy</title>
+<body>
+Android permissions requested by this app<br>
+<br>
+Do Not Disturb access<br>
+Used for controlling Do Not Disturb state via quick settings tile.<br>
+<br>
+Write Settings access<br>
+Used for controlling screen brightness and screen timeout through quick settings tiles.
+<br>
+Data collection, ads, etc.<br>
+NO data is collected by this app, no ads exist in this app, and no network calls are made by this app. The permissions requested are only used for their described purpose.<br>
+Updated March 9, 2019
+</body>
+</html>
